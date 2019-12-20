@@ -8,6 +8,9 @@
 
 // tyrannosaurus, carnivorous, 7000kg, 12m, Late Cretaceous
 var dinosaur1 = {name:"Tyrannosaurus", diet:"Carnivorous", weight:"7000kg", length:"12m", period:"Late Cretaceous"};
+object.method = function (){
+  return "RAWERSRARARWERSARARARRRR!";
+}
 // stegosaurus, herbivorous, 2000kg, 9m, Late Jurassic
 var dinosaur2 = {name:"Stegosaurus", diet:"Herbivorous", weight:"2000kg", length:"9m", period:"Late Jurassic"};
 // velociraptor, carnivorous, 15kg, 1.8m, Late Cretaceous
